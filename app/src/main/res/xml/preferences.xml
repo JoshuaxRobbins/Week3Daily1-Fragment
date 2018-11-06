@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <Preference
+        android:key="background_color"
+        android:title="Background"
+        android:summary="Change background color" />
+
+    <Preference
+        android:key="text_size"
+        android:title="Text"
+        android:summary="Adjust text size" />
+
+    <Preference
+        android:key="account_settings"
+        android:title="Account"
+        android:summary="Change Account Settings"/>
+
+
+</PreferenceScreen>
